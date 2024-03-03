@@ -82,7 +82,7 @@ function sendEmail() {
     }).then(
         message => {
             if (message == "OK") {
-                window.location.href = "http://localhost:5500/index.html#home";
+                window.location.href = "https://pidhrabia.github.io/Pidhrabia/";
             }
         }
     );
